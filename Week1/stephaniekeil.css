@@ -1,0 +1,59 @@
+.header{
+	background-color: #009933;
+	color: white;
+	padding: 5px;
+	font-size: 40px;
+	border: 5px solid #006622;
+	font-family:sans-serif;
+}
+.subhead{
+	background-color: White;
+	color: #006622;
+	padding: 0px;
+	font-size: 35px;
+	font-family:sans-serif;
+}
+.paragraph{
+	background-color: #009933;
+	color: White;
+	padding: 0px;
+	font-size: 15px;
+	font-family:sans-serif;
+}
+table, th, td {
+	border:1px solid black;
+}
+a:link {
+	color: lightgreen;
+	background-color: transparent;
+	text-decoration: underline;
+	font-family:sans-serif;
+}
+a:visited {
+	color: hotpink;
+	text-decoration: underline;
+	font-family:sans-serif;
+}
+.button1 {
+	background-color: #4CAF50; /* Green */
+	 border: none;
+	 color: white;
+	 padding: 15px 32px;
+	 text-align: center;
+	 text-decoration: none;
+	 display: inline-block;
+	 font-size: 16px;
+}
+
+.fname {
+	background-color: #cc33ff;
+	 border: none;
+	 color: white;
+	 padding: 15px 32px;
+	 text-align: center;
+	 text-decoration: none;
+	 display: inline-block;
+	 font-size: 36px;
+	 font-family:sans-serif;
+
+}

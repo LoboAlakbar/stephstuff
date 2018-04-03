@@ -1,0 +1,22 @@
+.paragraph{
+    background-color: tomato;
+    font-size: 25px;
+    color: slateblue;
+    margin-left: 0;
+    font-family: veranda;
+  
+}
+
+.subparagraph{
+    background-color: green;
+    font-size: 15px;
+    color: white;
+    font-family: cursive;
+}
+
+.box{
+  width: 200px;
+    height: 100px;
+    border: 1px solid black;
+  
+}

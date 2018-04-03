@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Visibility</title>
+
+  </head>
+  <body>
+
+      <p id="magician">I can disappear</p>
+      <button type="button" onclick=Invisible()>Abracadabra!</button>
+      <button type="button" onclick=Reappear()>Reappear</button>
+
+      <script>
+        function Invisible()
+        {
+          document.getElementById("magician").style.visibility = "hidden";
+        }
+        function Reappear()
+        {
+          document.getElementById("magician").style.visibility = "visible";
+        }
+      </script>
+  </body>
+  </html>

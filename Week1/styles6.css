@@ -1,0 +1,27 @@
+.city{
+	background-color: tomato;
+	color: white;
+	padding: 10px;
+	font-size: 20px;
+}
+
+.state{
+	background-color: black;
+	color: white;
+	padding: 5px;
+	font-size: 30px;
+}
+
+.country{
+	background-color: purple;
+	color: teal;
+	padding: 1px;
+	font-size: 40px;
+}
+
+.paragraph{
+	background-color: lightgreen;
+	color: green;
+	padding: 1px;
+	font-size: 15px;
+}
